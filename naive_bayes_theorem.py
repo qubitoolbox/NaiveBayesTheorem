@@ -1,6 +1,7 @@
 """
 This formula simply computes the probability of a bilief (B)
 given a set of evidence (E) posterior probability
+Although simple, serves a proof of concept
 """
 #Author Osman D Morales
 
